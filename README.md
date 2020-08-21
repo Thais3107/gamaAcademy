@@ -1,4 +1,4 @@
 # gamaAcademy
 Curso DOTI Itau
 
-Conteudos Java
+Conteudos voltados a orientacao a objeto
